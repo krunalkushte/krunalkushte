@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Fullstack development on Udemy and the mentor is Angelo Yu
 - 💞️ I’m looking to collaborate on GitHUb coding legends
 - 📫 How to reach me (https://krunalkushte.github.io/html-portfolio/)
-- 😄 Pronouns: Krunal
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Falling in love with coding
 
 <!---
