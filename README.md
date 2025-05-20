@@ -1,4 +1,4 @@
--👋 Hi, I’m @krunalkushte
+👋 Hi, I’m @krunalkushte
 - 🎨 Passionate about creating intuitive, accessible digital experiences
 - 🛠 Skilled in Figma, Adobe XD, Framer, HTML, CSS, JavaScript
 - 🔁 Focused on user-centered design, prototyping, and iterative feedback
